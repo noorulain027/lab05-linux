@@ -1,0 +1,17 @@
+total 60
+drwxr-x--- 10 noorulain027 noorulain027 4096 Oct 16 06:46 .
+drwxr-xr-x  3 root         root         4096 Oct 10 10:54 ..
+drwxrwxr-x  3 noorulain027 noorulain027 4096 Oct 10 12:26 Assignment01
+-rw-------  1 noorulain027 noorulain027  658 Oct 10 11:16 .bash_history
+-rw-r--r--  1 noorulain027 noorulain027  220 Mar 31  2024 .bash_logout
+-rw-r--r--  1 noorulain027 noorulain027 3771 Mar 31  2024 .bashrc
+drwx------  2 noorulain027 noorulain027 4096 Oct 10 10:57 .cache
+drwxrwxr-x  3 noorulain027 noorulain027 4096 Oct 10 11:05 CC
+-rw-rw-r--  1 noorulain027 noorulain027  183 Oct 16 06:45 .gitconfig
+drwxrwxr-x  3 noorulain027 noorulain027 4096 Oct 10 11:20 Gitea
+drwxrwxr-x  5 noorulain027 noorulain027 4096 Oct 16 06:46 lab05-linux
+drwx------  3 noorulain027 noorulain027 4096 Oct 10 12:25 .local
+drwxrwxr-x  3 noorulain027 noorulain027 4096 Oct 10 12:32 noorulain027.github.io
+-rw-r--r--  1 noorulain027 noorulain027  807 Mar 31  2024 .profile
+drwx------  2 noorulain027 noorulain027 4096 Oct 16 06:41 .ssh
+-rw-r--r--  1 noorulain027 noorulain027    0 Oct 10 10:59 .sudo_as_admin_successful
