@@ -1,0 +1,14 @@
+2026-10-16T07:10:37.108397+00:00 ubuntu sudo: noorulain027 : TTY=pts/1 ; PWD=/home/noorulain027/lab05-linux ; USER=root ; COMMAND=/usr/sbin/adduser lab5user
+2026-10-16T07:10:37.440183+00:00 ubuntu groupadd[2773]: group added to /etc/group: name=lab5user, GID=1001
+2026-10-16T07:10:37.445433+00:00 ubuntu groupadd[2773]: group added to /etc/gshadow: name=lab5user
+2026-10-16T07:10:37.448945+00:00 ubuntu groupadd[2773]: new group: name=lab5user, GID=1001
+2026-10-16T07:10:37.495736+00:00 ubuntu useradd[2780]: new user: name=lab5user, UID=1001, GID=1001, home=/home/lab5user, shell=/bin/bash, from=/dev/pts/2
+2026-10-16T07:10:48.415850+00:00 ubuntu passwd[2793]: pam_unix(passwd:chauthtok): password changed for lab5user
+2026-10-16T07:11:11.625422+00:00 ubuntu chfn[2796]: changed user 'lab5user' information
+2026-10-16T07:11:16.776325+00:00 ubuntu gpasswd[2807]: members of group users set by root to lab5user
+2026-10-16T07:12:17.553117+00:00 ubuntu su[2816]: (to lab5user) noorulain027 on pts/1
+2026-10-16T07:12:17.559037+00:00 ubuntu su[2816]: pam_unix(su-l:session): session opened for user lab5user(uid=1001) by noorulain027(uid=1000)
+2026-10-16T07:12:57.778510+00:00 ubuntu sudo: lab5user : user NOT in sudoers ; TTY=pts/1 ; PWD=/home/lab5user ; USER=root ; COMMAND=/usr/bin/whoami
+2026-10-16T07:13:32.704277+00:00 ubuntu su[2816]: pam_unix(su-l:session): session closed for user lab5user
+2026-10-16T07:13:43.351786+00:00 ubuntu sudo: noorulain027 : TTY=pts/1 ; PWD=/home/noorulain027/lab05-linux ; USER=root ; COMMAND=/usr/bin/grep lab5user /var/log/auth.log
+2026-10-16T07:14:25.143839+00:00 ubuntu sudo: noorulain027 : TTY=pts/1 ; PWD=/home/noorulain027/lab05-linux ; USER=root ; COMMAND=/usr/bin/grep lab5user /var/log/auth.log
